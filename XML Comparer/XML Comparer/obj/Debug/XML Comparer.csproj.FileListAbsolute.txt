@@ -1,0 +1,21 @@
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\bin\Debug\XML Comparer.exe
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\bin\Debug\XML Comparer.pdb
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.csproj.AssemblyReference.cache
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\obj\Debug\XML_Comparer.Form1.resources
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\obj\Debug\XML_Comparer.Properties.Resources.resources
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.csproj.GenerateResource.cache
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.csproj.CoreCompileInputs.cache
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.exe
+C:\Repositories\XMLCoparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.pdb
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\bin\Debug\XML Comparer.exe
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\bin\Debug\XML Comparer.pdb
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\obj\Debug\XML_Comparer.Form1.resources
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\obj\Debug\XML_Comparer.Properties.Resources.resources
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.csproj.GenerateResource.cache
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.csproj.CoreCompileInputs.cache
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.exe
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.pdb
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\bin\Debug\MetroFramework.Design.dll
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\bin\Debug\MetroFramework.dll
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\bin\Debug\MetroFramework.Fonts.dll
+C:\Repositories\XMLComparer\XML Comparer\XML Comparer\obj\Debug\XML Comparer.csproj.CopyComplete
